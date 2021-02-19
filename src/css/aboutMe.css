@@ -1,0 +1,16 @@
+.container-AboutMe {
+    /* border-style: solid; */
+    position: fixed;
+    height: 60%;
+    width: 40%;
+    top: 22%;
+    left: 55%;
+}
+
+.aboutMe-text{
+    left: 15%;
+    top: 10%;
+    width: 65%;
+    position: relative;
+    font-size: 20px;
+}

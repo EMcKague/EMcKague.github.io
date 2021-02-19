@@ -1,0 +1,80 @@
+.container-Projects {
+    /* border-style: solid; */
+    position: fixed;
+    height: 60%;
+    width: 40%;
+    top: 22%;
+    left: 55%;
+}
+
+.container-Projects div{
+    position: relative;
+    left: 30%
+}
+
+.project1{
+    height: 23%;
+    width: 40%;
+    margin-top: 13.5%;
+    margin-bottom: 13.5;
+}
+
+.project1-image{
+    height: 100%;
+    width: 50%;
+    position: relative;
+    float: left;
+}
+
+.project1-text{
+    position: relative;
+    top: 2%;
+    height: 95%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    font-family: Lexend Mega;
+}
+
+
+
+.project2{
+    /* border: solid; */
+    height: 23%;
+    width: 40%;
+    margin-top: 13.5%;
+    margin-bottom: 13.5%;
+}
+
+.project2-image{
+    height: 100%;
+    width: 50%;
+    position: relative;
+    float: left;
+}
+
+.project2-text{
+    position: relative;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    background-color: white;
+    font-family: Lexend Mega;
+}
+
+.project3{
+    display: none;
+}
+
+.project3-image{
+    display: none;
+}
+
+.project3-text{
+    display: none;
+}
+
+.container-Projects a{
+    color:black;
+    text-decoration: none;
+}

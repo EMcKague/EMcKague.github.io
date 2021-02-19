@@ -1,0 +1,19 @@
+.navBar {
+    position: fixed;
+    top: 35%;
+    left: 7.5%
+}
+
+.navBar ul button:hover{
+    text-decoration: underline;
+    font-style: italic;
+    cursor: pointer;
+}
+
+.navBar ul button{
+    border: none;
+    outline: none;
+    background-color: transparent;
+    font-family: Lexend Mega;
+}
+
